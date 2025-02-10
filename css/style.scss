@@ -438,7 +438,7 @@ a:focus {
 
   .about_container {
     padding: 45px;
-    background-image: url(../images/about-bg.jpg);
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fgimnasio-de-boxeo--655696026993549557%2F&psig=AOvVaw1Tf-06OMX1C0E-rAD3nfWR&ust=1739231950697000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjpwIfmt4sDFQAAAAAdAAAAABAJ);
     background-size: cover;
 
     .detail-box {
@@ -460,7 +460,7 @@ a:focus {
       a {
         @include hero_btn($black, $white, 8px, 35px, 35px);
         margin: 35px auto 0 auto;
-        box-shadow: 0 0 35px 0 rgba($color: #63f74f, $alpha: .7);
+        box-shadow: 0 0 35px 0 rgba($color: #43c4e4, $alpha: .7);
       }
     }
   }
